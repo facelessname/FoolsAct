@@ -14,26 +14,26 @@
     "fileStates": {
         "maps/rules/foolact_prototype_rules.tmx": {
             "scale": 3,
-            "selectedLayer": 0,
+            "selectedLayer": 1,
             "viewCenter": {
-                "x": 109.66666666666667,
+                "x": 98.83333333333334,
                 "y": 79.16666666666666
             }
         },
         "maps/rules/foolact_prototypewalls_rules.tmx": {
-            "scale": 1.058359375,
+            "scale": 1.5,
             "selectedLayer": 1,
             "viewCenter": {
-                "x": 320.307079058094,
-                "y": 161.09839816933638
+                "x": 179.66666666666669,
+                "y": 172.33333333333331
             }
         },
         "maps/test_map_1.tmx": {
-            "scale": 1,
-            "selectedLayer": 0,
+            "scale": 0.75,
+            "selectedLayer": 1,
             "viewCenter": {
-                "x": 262,
-                "y": 430.5
+                "x": 493.99999999999994,
+                "y": 507.33333333333337
             }
         },
         "test_map_1.tmx": {
