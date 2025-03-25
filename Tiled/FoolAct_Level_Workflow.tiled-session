@@ -21,19 +21,19 @@
             }
         },
         "maps/rules/foolact_prototypewalls_rules.tmx": {
-            "scale": 1.5,
+            "scale": 3,
             "selectedLayer": 1,
             "viewCenter": {
-                "x": 179.66666666666669,
-                "y": 172.33333333333331
+                "x": 204.16666666666666,
+                "y": 224.5
             }
         },
         "maps/test_map_1.tmx": {
-            "scale": 0.75,
+            "scale": 1.5,
             "selectedLayer": 1,
             "viewCenter": {
-                "x": 493.99999999999994,
-                "y": 507.33333333333337
+                "x": 309.6666666666667,
+                "y": 481
             }
         },
         "test_map_1.tmx": {
