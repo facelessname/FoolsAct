@@ -1,0 +1,2 @@
+rules\foolact_prototype_rules.tmx
+rules\foolact_prototypewalls_rules.tmx
